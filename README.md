@@ -1,4 +1,4 @@
-# NatureNetwork
+# NatNet
 
 You must first run the following commands to ensure the project compiles:
 
